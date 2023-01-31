@@ -1,7 +1,7 @@
 # Pricetable
 
 ## About the webpage
-
+Created a demo frontend page for listing price in different domains using bootstrap modules.
 
 ## Demo 
 ![Finished Project] 
